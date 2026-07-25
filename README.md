@@ -34,6 +34,9 @@ Asset	Balance	Note
 USDC	$8.00	8 USDC
 ETH	$1.70	0.00091642 ETH
 ROUND ON	$793,980.53	793,980.53 tokens (~$1/token nominal)
+**ROUND ON:** [`0xf26C2493E466952AF870B58833E3c70FE5f795C6`](https://base.app/coin/base-mainnet/0xf26C2493E466952AF870B58833E3c70FE5f795C6) on Base.
+**ROUND ON:** [`0xf26C2493E466952AF870B58833E3c70FE5f795C6`](https://zora.co/coin/base:0xf26C2493E466952AF870B58833E3c70FE5f795C6) on Zora.
+
 Entry NFT Title Cap	$3.30 USDC (max sell)	Prevents manipulation, enables high-frequency utility
 The 3.30 USDC cap allows the owner to make many intraday exchanges.
 At ~$0.04/tx ($0.01 gas on Base), the profit is:
